@@ -24,3 +24,4 @@ const connectToMongo = () => {
 };
 
 module.exports = connectToMongo;
+
