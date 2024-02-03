@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose');
-const orderItemSchema = require('./OrderItem'); 
+const orderItemSchema = require('./ShopItem'); 
 
 const orderSchema = new mongoose.Schema({
   userId: {
